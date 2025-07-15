@@ -1,12 +1,60 @@
-# React + Vite
+# 🧠 Creative Studio Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive and animation-enhanced frontend project built using **React**, **Tailwind CSS**, and **AOS** (Animate on Scroll). The layout is designed for agencies, portfolios, or creative studios looking to showcase their services, brand values, and portfolio with stunning visuals and motion effects.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> **[🔗 Click here to view the live site](https://company-portfolio-six-chi.vercel.app/)**  
+> _(https://company-portfolio-six-chi.vercel.app/)_
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** (Frontend Framework)
+- **Tailwind CSS** (Utility-first styling)
+- **AOS (Animate On Scroll)** (Scroll-based animations)
+- **Responsive Design** (Mobile-first)
+
+---
+
+## 📂 Features
+
+- ✨ Responsive layout optimized for all screen sizes
+- 🎯 Beautiful section-based scroll animations using AOS
+- 🧩 Reusable components: Banner, Brand Values, Services, Portfolio, Strategy
+- 🖼️ Custom image masks and overlays for strong visual storytelling
+- 🔍 Accessibility-focused semantic HTML
+
+---
+
+## 🧱 Pages / Components
+
+| Component           | Description                               |
+| ------------------- | ----------------------------------------- |
+| `Banner`            | Hero section with masked image + CTA      |
+| `BrandValues`       | Visual section with layered image cards   |
+| `DesignEngineering` | Icon-grid service showcase                |
+| `WhatWeDo`          | Grid of strategy, design, and development |
+| `Strategy`          | Side-by-side branding explanation + image |
+| `Portfolio`         | Responsive project gallery                |
+| `ContactUs`         | Contact intent CTA section                |
+
+---
+
+## 📦 Installation & Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
+
+# Move into the project folder
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
