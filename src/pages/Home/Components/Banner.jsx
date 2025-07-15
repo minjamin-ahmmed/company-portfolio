@@ -19,7 +19,7 @@ const Banner = () => {
       <div className="w-11/12 lg:w-9/12 mx-auto flex flex-col lg:flex-row items-center gap-12">
         {/* Left Text Block */}
         <div
-          className="bg-white px-10 py-16 max-w-7xl relative mt-72 lg:mt-96"
+          className="bg-white px-10 py-16 max-w-7xl relative mt-88 lg:mt-96"
           data-aos="fade-up"
           data-aos-delay="300"
           data-aos-anchor-placement="top-bottom"
